@@ -57,4 +57,4 @@ python omelet_cooker.py
 - Python 3.7+
 - No additional packages required
 
-This is trying AI in cursor
+This is trying AI in cursor, i am future data scientist 
