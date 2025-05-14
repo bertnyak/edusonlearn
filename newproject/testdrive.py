@@ -1,4 +1,4 @@
-name = str(input("Напиши свое имя\n"))
+name = str(input("Напиши свое имя: \n"))
 
 def greet(name):
     return print(f'Привет {name}')

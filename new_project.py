@@ -15,7 +15,7 @@ if first_cofficient!= 0 and second_cofficient % 2 == 0 and third_cofficient!= 0:
     print(f'k2 = {k2}')  
 
 # Решение уравнения при с = 0
-if first_cofficient!= 0 and third_cofficient== 0 and second_cofficient!= 0:     
+if first_cofficient != 0 and third_cofficient == 0 and second_cofficient != 0:
     print(f'корень уравнения равен либо нулю, либо {-second_cofficient / first_cofficient}')
 
 # решение уравнения при b = 0 и c = 0 
